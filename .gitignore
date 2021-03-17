@@ -39,7 +39,6 @@ Plugins
 .idea
 .tags*
 .vs
-.vscode
 __pycache__
 _benchmarks_results
 _images*
@@ -47,3 +46,5 @@ _out*
 _site
 core
 profiler.csv
+config.bat
+node_modules
